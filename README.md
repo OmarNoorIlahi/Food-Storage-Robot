@@ -36,7 +36,7 @@ From my perspective, I suggest delta robot due to the following characteristics:
 | 4   | Low- Inertia        | With motors located on the base, the arms remain lightweight, allowing for fast, energy-efficient movement. |
 | 5   | Clean and Compact Design | Easy to sanitize, making it suitable for food-grade environments.        |
 
-**Table 1: Reasons**
+<p align="center"><strong>Table 1: Reasons</strong></p>
 
 <p align="center">
   <img src="Delta Robot.jpg" alt="Delta Robot" />
